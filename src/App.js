@@ -10,8 +10,14 @@ const HomePage = () => {
         <div className="banner-container">
         </div>
       </header>
-
       <div className="titre">
+      </div>
+
+      <div className="square-container">
+          <div className="square1">
+          </div>
+          <div className="square2">
+          </div>
         </div>
 
     </div>
