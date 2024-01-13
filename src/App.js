@@ -2,6 +2,7 @@
 
 import React from 'react';
 import './App.css';
+import Footer from './footer';
 
 const HomePage = () => {
   return (
@@ -19,9 +20,10 @@ const HomePage = () => {
           <div className="square2">
           </div>
         </div>
-
+      <Footer/>
     </div>
   );
 };
+
 
 export default HomePage;
